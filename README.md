@@ -1,8 +1,8 @@
 Timer App
-Overview
+Overviews
 This Timer App is a simple Python application designed to count time intervals. It features a user-friendly interface with buttons to start, stop, and reset the timer. Whether you need to track time for productivity, workouts, or any other activity, this app provides a convenient solution.
 
-Features
+Features:
 
 ![Screenshot 2024-05-05 175757](https://github.com/shanshee/Flash_Card_App/assets/135793255/410d13bd-a946-4241-82c8-9673c769e542)
 
@@ -14,9 +14,9 @@ Features
 ![Screenshot 2024-05-05 175810](https://github.com/shanshee/Flash_Card_App/assets/135793255/6ea1f218-5672-44d5-a39f-6a0a7d859288)
 
 User-friendly Interface: Intuitive layout for easy navigation and operation.
-How to Use
+How to Use:
 Installation:
-Clone this repository to your local machine.
+Clone this repository to your local machines.
 Ensure you have Python installed.
 Run the App:
 Open your terminal or command prompt.
